@@ -3,7 +3,7 @@
         'name' => 'waafipay/waafipay-sdk-php',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '3ac504d9c26f7a4636d61e311086b9628b8f14a5',
+        'reference' => '0608993f07823e6343dcfb7e4828c5440ce21af2',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -48,7 +48,7 @@
         'waafipay/waafipay-sdk-php' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '3ac504d9c26f7a4636d61e311086b9628b8f14a5',
+            'reference' => '0608993f07823e6343dcfb7e4828c5440ce21af2',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
