@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'sarwar/waafipay-sdk-php',
-        'pretty_version' => '1.0',
-        'version' => '1.0',
-        'reference' => 'bdad050a3b26306ffeff233d5a76c81755453ac8',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '4f2feb516703018dd367023a86edf96236e46428',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,14 +11,12 @@
     ),
     'versions' => array(
         'monolog/monolog' => array(
-            'pretty_version' => '1.0',
-            'version' => '1.0',
+            'pretty_version' => '3.7.0',
+            'version' => '3.7.0.0',
             'reference' => 'f4393b648b78a5408747de94fca38beb5f7e9ef8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../monolog/monolog',
-            'aliases' => array(
-                0 => '3.x-dev',
-            ),
+            'aliases' => array(),
             'dev_requirement' => false,
         ),
         'netresearch/jsonmapper' => array(
@@ -45,10 +43,10 @@
                 0 => '3.0.0',
             ),
         ),
-        'waafipay/waafipay-sdk-php' => array(
-            'pretty_version' => '1.0',
-            'version' => '1.0',
-            'reference' => 'bdad050a3b26306ffeff233d5a76c81755453ac8',
+        'sarwar/waafipay-sdk-php' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '4f2feb516703018dd367023a86edf96236e46428',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
