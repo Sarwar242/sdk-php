@@ -2,8 +2,8 @@
     "packages": [
         {
             "name": "monolog/monolog",
-            "version": "dev-main",
-            "version_normalized": "dev-main",
+            "version": "3.7.0",
+            "version_normalized": "3.7.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
@@ -58,7 +58,6 @@
                 "ruflin/elastica": "Allow sending log messages to an Elastic Search server"
             },
             "time": "2024-06-28T09:40:51+00:00",
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
