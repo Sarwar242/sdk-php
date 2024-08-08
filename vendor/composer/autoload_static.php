@@ -11,28 +11,12 @@ class ComposerStaticInit592b239d38921101c3846764b67aab00
         array (
             'waafipay\\' => 9,
         ),
-        'P' => 
-        array (
-            'Psr\\Log\\' => 8,
-        ),
-        'M' => 
-        array (
-            'Monolog\\' => 8,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'waafipay\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
-        ),
-        'Psr\\Log\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/psr/log/src',
-        ),
-        'Monolog\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
     );
 
